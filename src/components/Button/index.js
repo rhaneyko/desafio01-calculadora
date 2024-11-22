@@ -1,7 +1,7 @@
 const Button = () => {
     return (
         <div>
-            <h1>as</h1>
+            button
         </div>
     )
 }
